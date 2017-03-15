@@ -1,5 +1,5 @@
 
-
+////////
 //1}First we divided our project into three modules for cleaner code and data privacy.
 //We made three seperate modules budgetController,UIController and controller. Controller will be the mediator between UIController and budgetController
 //we used IIFE for data privacy in every controller and the concept of closures
